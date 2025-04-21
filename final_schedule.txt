@@ -1,0 +1,11 @@
+SLA100A: Room=Roman 201, Time=11 AM, Facilitator=Lock
+SLA100B: Room=Beach 301, Time=3 PM, Facilitator=Zeldin
+SLA191A: Room=Beach 201, Time=12 PM, Facilitator=Glen
+SLA191B: Room=Loft 206, Time=11 AM, Facilitator=Glen
+SLA201: Room=Roman 201, Time=2 PM, Facilitator=Banks
+SLA291: Room=Logos 325, Time=10 AM, Facilitator=Singer
+SLA303: Room=Loft 310, Time=1 PM, Facilitator=Zeldin
+SLA304: Room=Frank 119, Time=11 AM, Facilitator=Banks
+SLA394: Room=Frank 119, Time=1 PM, Facilitator=Singer
+SLA449: Room=Loft 310, Time=12 PM, Facilitator=Tyler
+SLA451: Room=Loft 310, Time=11 AM, Facilitator=Tyler
